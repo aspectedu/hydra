@@ -308,7 +308,7 @@
     "last_time_played": "Última vez jugado: {{period}}",
     "activity": "Actividad reciente",
     "library": "Biblioteca",
-    "total_play_time": "Has jugado",
+    "total_play_time": "Tiempo de Juego",
     "no_recent_activity_title": "Que raro, no hay nada por acá...",
     "no_recent_activity_description": "No has jugado ningún juego recientemente, ¡vamos a cambiar eso ahora!",
     "display_name": "Nombre en pantalla",
